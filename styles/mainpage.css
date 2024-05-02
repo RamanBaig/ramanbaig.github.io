@@ -2,7 +2,7 @@ body {
   background-color: powderblue;
 }
 h1   {
-color: blue;
+color: black;
 }
 p    {
 color: red;
@@ -12,7 +12,7 @@ background-color: #04AA6D; /* Green */
 border: none;
 color: white;
 padding: 15px 32px;
-border-radius: 2px;
+border-radius: 8px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
