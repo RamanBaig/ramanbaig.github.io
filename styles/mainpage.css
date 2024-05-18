@@ -45,7 +45,7 @@ font-size: 20px;
   background-color: #06cb83;
 }  
 
-.buttontwo {
+.button2 {
   transition-duration: 0.4s;
   background-color: #04AA6D; /* Green */
   border: none;
@@ -59,21 +59,21 @@ font-size: 20px;
   border: 3px solid black;
 }
 
-.buttontwo a, active
+.button2 a, active
 {
   text-decoration: none;
   color: black;
 
 }
 
-.buttontwo:hover a
+.button2:hover a
 {
   text-decoration: none;
   color: black;
 
 }
 
-.buttontwo:hover
+.button2:hover
 {
   color: black;
   background-color: #06cb83;
