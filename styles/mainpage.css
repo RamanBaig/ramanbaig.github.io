@@ -46,9 +46,9 @@ font-size: 20px;
 }  
 
 .button2 {
+  float: left;
   transition-duration: 0.4s;
   background-color: #04AA6D; /* Green */
-  border: none;
   color: white;
   padding: 15px;
   border-radius: 8px;
