@@ -15,7 +15,7 @@ body {
     transition-duration: 0.4s;
     background-color: #04AA6D; /* Green */
     color: white;
-    padding: 15px;
+    padding: 15px 32px;
     border-radius: 8px;
     text-align: center;
     text-decoration: none;
